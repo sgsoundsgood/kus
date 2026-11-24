@@ -70,6 +70,10 @@ npx serve .
 
 ## Deployment
 
+Aktuell: Repo `sgsoundsgood/kus` (GitHub-Organisation), Vercel-Projekt `kuehnertundschroeder` im Team `soundsgood-3d557e16` (Pro). Jeder Push auf `main` geht automatisch live.
+
+Neu einrichten:
+
 1. Repo auf GitHub anlegen und pushen.
 2. In Vercel „Add New → Project“, Repo importieren. Framework: *Other*, kein Build-Befehl.
 3. Unter *Settings → Domains* `www.kuehnertundschroeder.de` (und `kuehnertundschroeder.de`) hinzufügen und die DNS-Einträge beim Domain-Anbieter setzen.
