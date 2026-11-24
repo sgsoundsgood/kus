@@ -70,7 +70,7 @@ npx serve .
 
 ## Deployment
 
-Aktuell: Repo `sgsoundsgood/kus` (GitHub-Organisation), Vercel-Projekt `kuehnertundschroeder` im Team `soundsgood-3d557e16` (Pro). Jeder Push auf `main` geht automatisch live.
+Aktuell: Repo `sgsoundsgood/kus` (GitHub-Organisation), Vercel-Projekt `kuehnertundschroeder` im Team `soundsgood-3d557e16` (Pro), seit 24.11.2026. Jeder Push auf `main` geht automatisch live.
 
 Neu einrichten:
 
